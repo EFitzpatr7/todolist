@@ -3,7 +3,7 @@
 > To do list linked to Firebase
 
 ## What is this?
-This is a simple to-do list I created as an example of Vue.js functionality. It is the first thing project I have ever created using both webpack and Vue, so there is still a lot to learn.
+This is a simple to-do list I created as an example of Vue.js functionality. It is the first project I have ever created using both webpack and Vue, so there is still a lot to learn.
 
 
 [Link to demo](http://vuejstest.georgebaggaley.co.uk)

@@ -2,7 +2,8 @@
 
 > To do list linked to Firebase
 
-## Build Setup
+## What is this?
+This is a simple to-do list I created as an example of Vue.js functionality. It is the first thing project I have ever created using both webpack and Vue, so there is still a lot to learn.
 
 ``` bash
 # install dependencies
@@ -17,5 +18,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
